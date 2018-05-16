@@ -337,7 +337,7 @@ Here is how my library looks:
 - Has keyboard support so I can quickly start and end recording of the GIF in one hotkey.
 
 ### Finance
-#### [Actual](actualbudget.com) - Budget manager
+#### [Actual](http://actualbudget.com) - Budget manager
 - Use it to track, budget and overview all of [my finances](https://wiki.nikitavoloboev.xyz/finance/finance.html). I use [YNAB ideology](http://classic.youneedabudget.com/method) for managing my money with the goal of being proactive with budgeting and spending. Knowing how much money I have and how much money I can spend on any given category. I find this proactive approach in dealing with money very freeing and powerful.
 
 ### Utilities
